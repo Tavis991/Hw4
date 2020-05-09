@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tuli/CLionProjects/hw4/League.h
+Team.h
+/home/tuli/CLionProjects/hw4/Team.h
+Match.h
+/home/tuli/CLionProjects/hw4/Match.h
+
+/home/tuli/CLionProjects/hw4/Match.h
+Team.h
+/home/tuli/CLionProjects/hw4/Team.h
+stdbool.h
+-
+
+/home/tuli/CLionProjects/hw4/Team.h
+
+/home/tuli/CLionProjects/hw4/main.c
+stdio.h
+-
+string.h
+-
+sort_league.h
+/home/tuli/CLionProjects/hw4/sort_league.h
+League.h
+/home/tuli/CLionProjects/hw4/League.h
+
+/home/tuli/CLionProjects/hw4/sort_league.h
+League.h
+/home/tuli/CLionProjects/hw4/League.h
+Team.h
+/home/tuli/CLionProjects/hw4/Team.h
+
